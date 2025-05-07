@@ -1,6 +1,6 @@
 ##  Hi! My name is Pedro Lisboa. 😁
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
 
  <div align="center">
    <a href="https://github.com/Lisboaseyth">
