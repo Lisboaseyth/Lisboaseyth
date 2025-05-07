@@ -1,5 +1,7 @@
 ##  Hi! My name is Pedro Lisboa. 😁
 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
  <div align="center">
    <a href="https://github.com/Lisboaseyth">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lisboaseyth&show_icons=true&theme=tokyonight&count_private=true"/>
