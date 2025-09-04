@@ -1,6 +1,36 @@
-##  Hi! My name is Pedro Lisboa. 😁
+<div align="center">
+  <h1>Hi there, I'm <a href="https://lisboadev.vercel.app/">Pedro Lisboa</a> <img         src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-  ![Status](./profile-3d-contrib/profile-night-view.svg)
+```javascript
+const lisboa = {
+  pronouns: "he" | "his",
+  code: ["HTML", "CSS", "Javascript", "Typescript", "Php", "SQL", "Python"],
+  tools: ["React", "React Native", "Angular", "Django", "Vitest", "Node", "Docker"],
+  architecture: ["microservices", "design system pattern"],
+  experience: [
+    {
+      company: "Setebit",
+      position: "Front-End Developer",
+      created_at: "2023-07-29",
+      ends_at: null,
+    },
+    {
+      company: "BMO - BeMore",
+      position: "Tech Lead Front-End Stack",
+      created_at: "2023-03-05",
+      ends_at: null,
+    },
+    {
+      company: "Cartaxo Petróleo",
+      position: "Computer Technician",
+      created_at: "2021-02-11",
+      ends_at: "2023-09-01",
+    },
+  ]
+
+}
+```
 
  <div align="center">
    <a href="https://github.com/Lisboaseyth">
