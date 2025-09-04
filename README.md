@@ -7,7 +7,6 @@ const lisboa = {
   pronouns: "he" | "his",
   code: ["HTML", "CSS", "Javascript", "Typescript", "Php", "SQL", "Python"],
   tools: ["React", "React Native", "Angular", "Django", "Vitest", "Node", "Docker"],
-  architecture: ["microservices", "design system pattern"],
   experience: [
     {
       company: "Setebit",
