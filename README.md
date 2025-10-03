@@ -4,15 +4,6 @@
   </h1>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN6MXd5MGcwaDI2ZGh5b3Vhb3Y5dGhmMmZ2M2JlZ281MXJha2tteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-        width="200px">
-    </td>
-    <td>
-      
 ```javascript
 const lisboa = {
   pronouns: "he" | "his",
@@ -39,11 +30,22 @@ const lisboa = {
     },
   ]
 }
-</table>
 ```
+
+<!-- <table>
+  <tr>
+    <td>
+      <img 
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN6MXd5MGcwaDI2ZGh5b3Vhb3Y5dGhmMmZ2M2JlZ281MXJha2tteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+        width="200px">
+    </td>
+    <td>
+      
+
+</table>
   </td>
 </tr>
-</table>
+</table> -->
 <div align="center">
    <a href="https://github.com/Lisboaseyth">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lisboaseyth&show_icons=true&theme=tokyonight&count_private=true"/>
