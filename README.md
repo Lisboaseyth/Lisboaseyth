@@ -9,6 +9,22 @@ const lisboa = {
   pronouns: "he" | "his",
   code: ["HTML", "CSS", "Javascript", "Typescript", "Php", "SQL", "Python"],
   tools: ["React", "React Native", "Angular", "Django", "Vitest", "Node", "Docker"],
+  some_external_libs: [
+    "React Hook Form",
+    "React Router Dom",
+    "Mapbox",
+    "Chakra Ui",
+    "yup",
+    "Material UI - MUI",
+    "i18n",
+    "Nookies",
+    "Axios",
+    "Pixi Js",
+    "DayJs",
+    "React Icons",
+    "React Input Mask",
+    "Virtuoso"
+  ];
   experience: [
     {
       company: "Setebit",
