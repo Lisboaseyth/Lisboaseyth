@@ -63,16 +63,6 @@ const lisboa = {
 </tr>
 </table> -->
 <div align="center">
-   <a href="https://github.com/Lisboaseyth">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lisboaseyth&show_icons=true&theme=tokyonight&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisboaseyth&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
-
-   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lisboaseyth&theme=github_dark" />
-   </a>
- <br>
-
  <p align="center">
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=git,html,css,js,react,ts,nextjs,py,django,postgres,nodejs" />
