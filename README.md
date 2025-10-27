@@ -14,7 +14,8 @@ const lisboa = {
     "React Router Dom",
     "Mapbox",
     "Chakra Ui",
-    "yup",
+    "Yup",
+    "Zod",
     "Material UI - MUI",
     "i18n",
     "Nookies",
@@ -23,7 +24,10 @@ const lisboa = {
     "DayJs",
     "React Icons",
     "React Input Mask",
-    "Virtuoso"
+    "Virtuoso",
+    "Redux",
+    "Formik",
+    "Mantine"
   ];
   experience: [
     {
