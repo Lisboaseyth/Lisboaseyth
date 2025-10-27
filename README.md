@@ -69,7 +69,7 @@ const lisboa = {
 <div align="center">
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,ts,nextjs,py,django,postgres,nodejs" />
+     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,ts,nextjs,py,django,postgres,nodejs,php,laravel" />
    </a>
  </p>
 
